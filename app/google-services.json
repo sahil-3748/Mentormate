@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363894327441",
+    "project_id": "mentormate-a2c87",
+    "storage_bucket": "mentormate-a2c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363894327441:android:a29bbdf8ca85a871791730",
+        "android_client_info": {
+          "package_name": "com.example.mentormate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363894327441-e99kc7ouer2drar6fke9ilcqij0b1n7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbWgYzc_XmopM9vZ583lJ8iYkmTB9AlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363894327441-e99kc7ouer2drar6fke9ilcqij0b1n7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
